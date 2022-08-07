@@ -1,0 +1,23 @@
+.panda-bg-1 {
+    background-color: #FEEAE9 !important;
+}
+
+.panda-bg-2 {
+    background-image: linear-gradient(to bottom right, #FF9C35, #FFD019) !important;
+}
+
+.panda-bg-3 {
+    background-image: linear-gradient(to top, #FF136F, #FF4790, #FF589B) !important;
+}
+
+.panda-bg-4 {
+    background-image: linear-gradient(to top left, #3F07F8, #402BFA, #4289FF) !important;
+}
+
+.panda-text-1 {
+    color: #FF136F;
+}
+
+.catagories img {
+    width: 100px;
+}
